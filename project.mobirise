@@ -21,14 +21,16 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 3,
-    "versionPublish": "3.11.1"
+    "uniqCompNum": 4,
+    "versionPublish": "3.11.1",
+    "favicon": "@PROJECT_PATH@/assets/images/book-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "SA Oblique strategies",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
