@@ -414,9 +414,12 @@ h6,
 }
 #slider-0 P {
   text-align: center;
-  font-size: 20px;
+  font-size: 24px;
   font-family: 'Montserrat', sans-serif;
 }
 #slider-0 H2 {
   font-size: 30px;
+}
+#slider-0 B {
+  font-size: 24px;
 }
